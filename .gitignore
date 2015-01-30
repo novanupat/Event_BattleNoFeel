@@ -1,0 +1,7 @@
+log.roo
+target/
+android/
+assets/target/
+core/target/
+html/
+ios/
