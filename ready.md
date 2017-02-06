@@ -1,0 +1,3 @@
+Compile
+
+mvn test -Pjava
